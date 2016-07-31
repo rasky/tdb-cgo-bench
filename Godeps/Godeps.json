@@ -1,0 +1,11 @@
+{
+	"ImportPath": "tdb_bench",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/traildb/traildb-go",
+			"Rev": "b56072a877e7c31c1345ce42676b7fca0ee76253"
+		}
+	]
+}
