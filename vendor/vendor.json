@@ -1,0 +1,12 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "kWhIV8E1bTlA1GLmpb2srIi7W/0=",
+			"path": "github.com/traildb/traildb-go",
+			"revision": "b56072a877e7c31c1345ce42676b7fca0ee76253"
+		}
+	],
+	"rootPath": "tdb_bench"
+}
